@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin chào, Tôi là <span style="color:#007acc">NGUYEN XUAN THANH</span> (KenDev)</h1>
+<h1 align="center">👋 Xin chào, Tôi là <span style="color:#007acc">LO THAI QUYEN</span> (qeyunDev)</h1>
 <p align="center">
   <em>Full Stack Developer | Game Developer | Python Specialist | UI/UX Designer | Problem Solver</em>
 </p>
