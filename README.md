@@ -1,6 +1,6 @@
 <h1 align="center">👋 Xin chào, Tôi là <span style="color:#007acc">LO THAI QUYEN</span> (qeyunDev)</h1>
 <p align="center">
-  <em>Full Stack Developer | Game Developer | Python Specialist | UI/UX Designer | Problem Solver</em>
+  <em> Developer | Business Analysis | UI/UX Designer | Problem Solver</em>
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 ---
 
 ## 📋 Thông tin cá nhân
-- 👤 **Tên:** Nguyễn Xuân Thành (KenDev)  
-- 💼 **Vị trí:** Full Stack Developer, Game Developer, Python Specialist, UI/UX Designer  
+- 👤 **Tên:** Lô Thái Quyền
+- 💼 **Vị trí:** Intern Developer, UI/UX Designer  
 - 🏠 **Địa chỉ:** Ho Chi Minh City, Vietnam  
 - 🎓 **Học vấn:** FPT University - Computer Science  
-- 🏆 **Kinh nghiệm:** 3+ năm phát triển phần mềm  
-- 🎯 **Mục tiêu:** Full Stack Development & Game Tools  
+- 🏆 **Kinh nghiệm:** 1+ năm phát triển phần mềm  
+- 🎯 **Mục tiêu:** Full Stack Development & Busines Analysis
 
 ---
 
