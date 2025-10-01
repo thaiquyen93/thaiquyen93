@@ -6,25 +6,26 @@
 <div align="center" style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
   <a href="#" title="Full Stack Developer">
     <img alt="Full Stack Developer"
-         src="https://img.shields.io/badge/Full%20Stack%20Developer-6D28D9?style=for-the-badge&logo=stackshare&logoColor=FFFFFF&labelColor=2E1065">
+         src="https://img.shields.io/badge/Full%20Stack%20Developer-06B6D4?style=for-the-badge&logo=stackshare&logoColor=FFFFFF&labelColor=0F172A">
   </a>
   <a href="#" title="Game Developer">
     <img alt="Game Developer"
-         src="https://img.shields.io/badge/Game%20Developer-6D28D9?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=2E1065">
+         src="https://img.shields.io/badge/Game%20Developer-06B6D4?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=0F172A">
   </a>
   <a href="#" title="Python Specialist">
     <img alt="Python Specialist"
-         src="https://img.shields.io/badge/Python%20Specialist-6D28D9?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=2E1065">
+         src="https://img.shields.io/badge/Python%20Specialist-06B6D4?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=0F172A">
   </a>
   <a href="#" title="UI/UX Designer">
     <img alt="UI/UX Designer"
-         src="https://img.shields.io/badge/UI%2FUX%20Designer-6D28D9?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=2E1065">
+         src="https://img.shields.io/badge/UI%2FUX%20Designer-06B6D4?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=0F172A">
   </a>
   <a href="#" title="Problem Solver">
     <img alt="Problem Solver"
-         src="https://img.shields.io/badge/Problem%20Solver-6D28D9?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&labelColor=2E1065">
+         src="https://img.shields.io/badge/Problem%20Solver-06B6D4?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&labelColor=0F172A">
   </a>
 </div>
+
 
 
 ## 📋 Thông tin cá nhân
@@ -40,13 +41,13 @@
 ## 🌐 Liên hệ & Mạng xã hội
 <p align="center">
   <a href="mailto:quyenlothai@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Gmail-quyenlothai%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=2E1065" alt="Gmail: quyenlothai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-quyenlothai%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0F172A" alt="Gmail: quyenlothai@gmail.com">
   </a>
   <a href="https://www.facebook.com/thaiquyen0903" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Facebook-thaiquyen0903-7C3AED?style=for-the-badge&logo=facebook&logoColor=FFFFFF&labelColor=2E1065" alt="Facebook: thaiquyen0903">
+    <img src="https://img.shields.io/badge/Facebook-thaiquyen0903-06B6D4?style=for-the-badge&logo=facebook&logoColor=FFFFFF&labelColor=0F172A" alt="Facebook: thaiquyen0903">
   </a>
   <a href="https://github.com/thaiquyen93" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-thaiquyen93-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=2E1065" alt="GitHub: thaiquyen93">
+    <img src="https://img.shields.io/badge/GitHub-thaiquyen93-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0F172A" alt="GitHub: thaiquyen93">
   </a>
 </p>
 
