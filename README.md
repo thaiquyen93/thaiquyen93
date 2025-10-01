@@ -3,27 +3,26 @@
   <em> Developer | Business Analysis | UI/UX Designer | Problem Solver</em>
 </p>
 
-<!-- Badges: Light theme -->
 <div align="center" style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
   <a href="#" title="Full Stack Developer">
-    <img alt="Full Stack Developer" 
-         src="https://img.shields.io/badge/Full%20Stack%20Developer-white?style=for-the-badge&logo=stackshare&logoColor=111827&labelColor=E5E7EB&color=FFFFFF">
+    <img alt="Full Stack Developer"
+         src="https://img.shields.io/badge/Full%20Stack%20Developer-6D28D9?style=for-the-badge&logo=stackshare&logoColor=FFFFFF&labelColor=2E1065">
   </a>
   <a href="#" title="Game Developer">
-    <img alt="Game Developer" 
-         src="https://img.shields.io/badge/Game%20Developer-white?style=for-the-badge&logo=unity&logoColor=111827&labelColor=E5E7EB&color=FFFFFF">
+    <img alt="Game Developer"
+         src="https://img.shields.io/badge/Game%20Developer-6D28D9?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=2E1065">
   </a>
   <a href="#" title="Python Specialist">
-    <img alt="Python Specialist" 
-         src="https://img.shields.io/badge/Python%20Specialist-white?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=E5E7EB&color=FFFFFF">
+    <img alt="Python Specialist"
+         src="https://img.shields.io/badge/Python%20Specialist-6D28D9?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=2E1065">
   </a>
   <a href="#" title="UI/UX Designer">
-    <img alt="UI/UX Designer" 
-         src="https://img.shields.io/badge/UI%2FUX%20Designer-white?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=E5E7EB&color=FFFFFF">
+    <img alt="UI/UX Designer"
+         src="https://img.shields.io/badge/UI%2FUX%20Designer-6D28D9?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=2E1065">
   </a>
   <a href="#" title="Problem Solver">
-    <img alt="Problem Solver" 
-         src="https://img.shields.io/badge/Problem%20Solver-white?style=for-the-badge&logo=codeforces&logoColor=111827&labelColor=E5E7EB&color=FFFFFF">
+    <img alt="Problem Solver"
+         src="https://img.shields.io/badge/Problem%20Solver-6D28D9?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&labelColor=2E1065">
   </a>
 </div>
 
@@ -41,15 +40,16 @@
 ## 🌐 Liên hệ & Mạng xã hội
 <p align="center">
   <a href="mailto:quyenlothai@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Gmail-quyenlothai%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail: quyenlothai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-quyenlothai%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=2E1065" alt="Gmail: quyenlothai@gmail.com">
   </a>
   <a href="https://www.facebook.com/thaiquyen0903" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Facebook-thaiquyen0903-blue?style=for-the-badge&logo=facebook" alt="Facebook: thaiquyen0903">
+    <img src="https://img.shields.io/badge/Facebook-thaiquyen0903-7C3AED?style=for-the-badge&logo=facebook&logoColor=FFFFFF&labelColor=2E1065" alt="Facebook: thaiquyen0903">
   </a>
   <a href="https://github.com/thaiquyen93" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-thaiquyen93-black?style=for-the-badge&logo=github" alt="GitHub: thaiquyen93">
+    <img src="https://img.shields.io/badge/GitHub-thaiquyen93-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=2E1065" alt="GitHub: thaiquyen93">
   </a>
 </p>
+
 
 ---
 
